@@ -1,21 +1,21 @@
-# Type Piano 0.1.1 — First Public Free Release
+# Type Piano 0.1.2
 
 **Type Piano Community Edition is the complete application and is free to download and use.** Every instrument and performance control is included without activation or feature gating.
 
 ## What stands out in this release
 
-- Computer-keyboard, native MIDI, and pointer input share one A0-C8 performance model, so velocity, sustain, note ownership, and visible key state remain consistent across all 88 keys.
-- Studio Grand and Felt Room stream the verified acoustic bank, while Classic EP uses velocity-responsive FM synthesis and Glass Piano uses an additive engine.
-- The realtime audio path supports velocity layers, sustain, release, resonance, and pedal material without loading the complete sample library into memory at startup.
-- The complete application is free: every instrument, input method, performance control, theme, language, scaling option, and persisted setting is included without activation or feature gating.
-- Linux packages carry the source-attested Salamander Grand Piano V3 bank, pinned attribution, canonical CC BY 3.0 legal text, and package-integrity evidence.
-- Windows and macOS remain outside the public platform claim until their target-host signing, installation, audio, MIDI, and native acceptance reports pass.
+- On Windows, Type Piano now tries WGPU first and automatically retries with Glow when WGPU initialization fails; if neither graphics backend starts, both errors are written to the startup log.
+- Windows packaging statically links the Microsoft C/C++ runtime and rejects a packaged executable that still imports an external Visual C++ runtime.
+- Canonical Linux x64 AppImage, DEB, and RPM packages and the Windows x64 NSIS installer are assembled on GitHub-hosted runners with final SHA-256 checksums.
+- The sampled piano bank, its pinned attribution notice, and its canonical CC BY 3.0 legal text remain part of the package-integrity gate.
+- GitHub-hosted packaging is build and package-integrity evidence; it is not target-host installation, native UI, audio, or MIDI acceptance.
 
 ## Choose the right package
 
-- **Linux x64 (APPIMAGE):** `type-piano-0.1.1-linux-x64.AppImage` — Portable Linux desktop package
-- **Linux x64 (DEB):** `type-piano-0.1.1-linux-x64.deb` — Debian, Ubuntu, Mint, and compatible systems
-- **Linux x64 (RPM):** `type-piano-0.1.1-linux-x64.rpm` — Fedora, RHEL, openSUSE, and compatible systems
+- **Linux x64 (APPIMAGE):** `type-piano-0.1.2-linux-x64.AppImage` — Portable Linux desktop package
+- **Linux x64 (DEB):** `type-piano-0.1.2-linux-x64.deb` — Debian, Ubuntu, Mint, and compatible systems
+- **Linux x64 (RPM):** `type-piano-0.1.2-linux-x64.rpm` — Fedora, RHEL, openSUSE, and compatible systems
+- **Windows x64:** `type-piano-0.1.2-windows-x64-setup.exe` — Guided Windows installer
 
 ## Before you install
 
