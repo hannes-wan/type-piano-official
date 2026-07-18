@@ -11,14 +11,14 @@ body:
     id: version
     attributes:
       label: App version
-      placeholder: "0.1.1"
+      placeholder: "0.1.2"
     validations:
       required: true
   - type: dropdown
     id: os
     attributes:
       label: Operating system
-      options: ["Linux (AppImage)", "Linux (DEB)", "Linux (RPM)", "Other"]
+      options: ["Windows 11", "Windows 10", "Linux (AppImage)", "Linux (DEB)", "Linux (RPM)", "Other"]
     validations:
       required: true
   - type: textarea

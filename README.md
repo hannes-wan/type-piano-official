@@ -1,7 +1,7 @@
 # Type Piano
 
 [![Complete App: Free](https://img.shields.io/badge/Complete_App-Free-16a34a?style=for-the-badge)](https://hannes-software.com/type-piano/download/)
-[![Linux](https://img.shields.io/badge/Linux-Desktop-f59e0b?style=flat-square&logo=linux)](https://hannes-software.com/type-piano/download/) [![Local first](https://img.shields.io/badge/Workflow-Local--first-7c3aed?style=flat-square)](https://hannes-software.com/type-piano/)
+[![Windows](https://img.shields.io/badge/Windows-Desktop-2563eb?style=flat-square&logo=windows)](https://hannes-software.com/type-piano/download/) [![Linux](https://img.shields.io/badge/Linux-Desktop-f59e0b?style=flat-square&logo=linux)](https://hannes-software.com/type-piano/download/) [![Local first](https://img.shields.io/badge/Workflow-Local--first-7c3aed?style=flat-square)](https://hannes-software.com/type-piano/)
 
 > Turn the keyboard already under your hands into a responsive native 88-key piano.
 
@@ -13,18 +13,20 @@ Type Piano is a complete free desktop instrument for computer-keyboard, MIDI-con
 
 [Download Community Edition](https://hannes-software.com/type-piano/download/) · [Product guide](https://hannes-software.com/type-piano/) · [Help](https://hannes-software.com/type-piano/help/) · [Report a bug](https://github.com/hannes-wan/type-piano-official/issues/new?template=bug_report.yml)
 
-## Download Type Piano 0.1.1
+## Download Type Piano 0.1.2
 
 | Platform | Package | Use it when |
 | --- | --- | --- |
-| Linux x64 (APPIMAGE) | [type-piano-0.1.1-linux-x64.AppImage](https://github.com/hannes-wan/type-piano-official/releases/download/v0.1.1/type-piano-0.1.1-linux-x64.AppImage) | Portable Linux desktop package |
-| Linux x64 (DEB) | [type-piano-0.1.1-linux-x64.deb](https://github.com/hannes-wan/type-piano-official/releases/download/v0.1.1/type-piano-0.1.1-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
-| Linux x64 (RPM) | [type-piano-0.1.1-linux-x64.rpm](https://github.com/hannes-wan/type-piano-official/releases/download/v0.1.1/type-piano-0.1.1-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
+| Linux x64 (APPIMAGE) | [type-piano-0.1.2-linux-x64.AppImage](https://github.com/hannes-wan/type-piano-official/releases/download/v0.1.2/type-piano-0.1.2-linux-x64.AppImage) | Portable Linux desktop package |
+| Linux x64 (DEB) | [type-piano-0.1.2-linux-x64.deb](https://github.com/hannes-wan/type-piano-official/releases/download/v0.1.2/type-piano-0.1.2-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
+| Linux x64 (RPM) | [type-piano-0.1.2-linux-x64.rpm](https://github.com/hannes-wan/type-piano-official/releases/download/v0.1.2/type-piano-0.1.2-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
+| Windows x64 | [type-piano-0.1.2-windows-x64-setup.exe](https://github.com/hannes-wan/type-piano-official/releases/download/v0.1.2/type-piano-0.1.2-windows-x64-setup.exe) | Guided Windows installer |
 
 Checksums, installation notes, and the complete platform matrix live on the [official download page](https://hannes-software.com/type-piano/download/).
 
 ## System requirements
 
+- **Windows:** Windows 10 or Windows 11 on x64.
 - **Linux:** a mainstream x64 distribution with glibc 2.35 or newer, such as Ubuntu 22.04+, Debian 12+, Fedora, or openSUSE (AppImage, DEB, and RPM packages).
 - **Disk space:** a few hundred megabytes free for the application and its bundled resources.
 
@@ -72,7 +74,7 @@ The realtime engine supports velocity layers, sustain, release behavior, resonan
 
 - All four instruments, all three input methods, the full 88-key range, themes, language choices, and settings persistence are included.
 - There is no separate edition, subscription, checkout, activation key, account requirement, or feature gate.
-- Linux is the current public package channel; other platform packages are not advertised until their native acceptance evidence passes.
+- Linux and Windows are the current public package channels. The Windows NSIS installer is published under an explicit unsigned, no-target-host-acceptance exception; its checksum proves package identity, not installation, audio, MIDI, or UI acceptance. macOS remains unpublished until its signed, notarized, and stapled universal DMG produces a passing native acceptance report on macOS.
 
 ## The complete application is free
 
