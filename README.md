@@ -5,7 +5,7 @@
 
 > Turn the keyboard already under your hands into a responsive native 88-key piano.
 
-A complete free virtual piano for computer keyboard, MIDI controller, and on-screen 88-key performance with streamed grand-piano samples.
+Free Community Edition: a complete free virtual piano for computer keyboard, MIDI controller, and on-screen 88-key performance with streamed grand-piano samples.
 
 Type Piano is a complete free desktop instrument for computer-keyboard, MIDI-controller, and on-screen performance, with streamed grand-piano samples, expressive pedal behavior, and four distinct sound engines.
 
@@ -13,14 +13,14 @@ Type Piano is a complete free desktop instrument for computer-keyboard, MIDI-con
 
 [Download Community Edition](https://hannes-software.com/type-piano/download/) · [Product guide](https://hannes-software.com/type-piano/) · [Help](https://hannes-software.com/type-piano/help/) · [Report a bug](https://github.com/hannes-wan/type-piano-official/issues/new?template=bug_report.yml)
 
-## Download Type Piano 0.1.2
+## Download Type Piano 0.1.3
 
 | Platform | Package | Use it when |
 | --- | --- | --- |
-| Linux x64 (APPIMAGE) | [type-piano-0.1.2-linux-x64.AppImage](https://github.com/hannes-wan/type-piano-official/releases/download/v0.1.2/type-piano-0.1.2-linux-x64.AppImage) | Portable Linux desktop package |
-| Linux x64 (DEB) | [type-piano-0.1.2-linux-x64.deb](https://github.com/hannes-wan/type-piano-official/releases/download/v0.1.2/type-piano-0.1.2-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
-| Linux x64 (RPM) | [type-piano-0.1.2-linux-x64.rpm](https://github.com/hannes-wan/type-piano-official/releases/download/v0.1.2/type-piano-0.1.2-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
-| Windows x64 | [type-piano-0.1.2-windows-x64-setup.exe](https://github.com/hannes-wan/type-piano-official/releases/download/v0.1.2/type-piano-0.1.2-windows-x64-setup.exe) | Guided Windows installer |
+| Linux x64 (APPIMAGE) | [type-piano-0.1.3-linux-x64.AppImage](https://github.com/hannes-wan/type-piano-official/releases/download/v0.1.3/type-piano-0.1.3-linux-x64.AppImage) | Portable Linux desktop package |
+| Linux x64 (DEB) | [type-piano-0.1.3-linux-x64.deb](https://github.com/hannes-wan/type-piano-official/releases/download/v0.1.3/type-piano-0.1.3-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
+| Linux x64 (RPM) | [type-piano-0.1.3-linux-x64.rpm](https://github.com/hannes-wan/type-piano-official/releases/download/v0.1.3/type-piano-0.1.3-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
+| Windows x64 | [type-piano-0.1.3-windows-x64-setup.exe](https://github.com/hannes-wan/type-piano-official/releases/download/v0.1.3/type-piano-0.1.3-windows-x64-setup.exe) | Guided Windows installer |
 
 Checksums, installation notes, and the complete platform matrix live on the [official download page](https://hannes-software.com/type-piano/download/).
 
@@ -73,7 +73,6 @@ The realtime engine supports velocity layers, sustain, release behavior, resonan
 ### The complete application is free
 
 - All four instruments, all three input methods, the full 88-key range, themes, language choices, and settings persistence are included.
-- There is no separate edition, subscription, checkout, activation key, account requirement, or feature gate.
 - Linux and Windows are the current public package channels. The Windows NSIS installer is published under an explicit unsigned, no-target-host-acceptance exception; its checksum proves package identity, not installation, audio, MIDI, or UI acceptance. macOS remains unpublished until its signed, notarized, and stapled universal DMG produces a passing native acceptance report on macOS.
 
 ## The complete application is free
