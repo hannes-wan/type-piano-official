@@ -13,14 +13,14 @@ Type Piano is a complete free desktop instrument for computer-keyboard, MIDI-con
 
 [Download Community Edition](https://hannes-software.com/type-piano/download/) · [Product guide](https://hannes-software.com/type-piano/) · [Help](https://hannes-software.com/type-piano/help/) · [Report a bug](https://github.com/hannes-wan/type-piano-official/issues/new?template=bug_report.yml)
 
-## Download Type Piano 0.1.4
+## Download Type Piano 0.1.6
 
 | Platform | Package | Use it when |
 | --- | --- | --- |
-| Linux x64 (APPIMAGE) | [type-piano-0.1.4-linux-x64.AppImage](https://github.com/hannes-wan/type-piano-official/releases/download/v0.1.4/type-piano-0.1.4-linux-x64.AppImage) | Portable Linux desktop package |
-| Linux x64 (DEB) | [type-piano-0.1.4-linux-x64.deb](https://github.com/hannes-wan/type-piano-official/releases/download/v0.1.4/type-piano-0.1.4-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
-| Linux x64 (RPM) | [type-piano-0.1.4-linux-x64.rpm](https://github.com/hannes-wan/type-piano-official/releases/download/v0.1.4/type-piano-0.1.4-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
-| Windows x64 | [type-piano-0.1.4-windows-x64-setup.exe](https://github.com/hannes-wan/type-piano-official/releases/download/v0.1.4/type-piano-0.1.4-windows-x64-setup.exe) | Guided Windows installer |
+| Linux x64 (APPIMAGE) | [type-piano-0.1.6-linux-x64.AppImage](https://github.com/hannes-wan/type-piano-official/releases/download/v0.1.6/type-piano-0.1.6-linux-x64.AppImage) | Portable Linux desktop package |
+| Linux x64 (DEB) | [type-piano-0.1.6-linux-x64.deb](https://github.com/hannes-wan/type-piano-official/releases/download/v0.1.6/type-piano-0.1.6-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
+| Linux x64 (RPM) | [type-piano-0.1.6-linux-x64.rpm](https://github.com/hannes-wan/type-piano-official/releases/download/v0.1.6/type-piano-0.1.6-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
+| Windows x64 | [type-piano-0.1.6-windows-x64-setup.exe](https://github.com/hannes-wan/type-piano-official/releases/download/v0.1.6/type-piano-0.1.6-windows-x64-setup.exe) | Guided Windows installer |
 
 Checksums, installation notes, and the complete platform matrix live on the [official download page](https://hannes-software.com/type-piano/download/).
 

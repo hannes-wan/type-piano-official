@@ -1,7 +1,7 @@
 **Type Piano Community Edition is the complete application and is free to download and use.**
 
-Type Piano 0.1.4 improves Windows and Linux release reliability for the free sampled-piano app, with its complete keyboard and MIDI experience unchanged.
+Type Piano 0.1.6 corrects the sampled middle-C pitch and refines the native interface for stable, responsive play.
 
-- Windows direct-download and Microsoft Store packages now receive stricter identity and integrity checks before release.
-- Windows interface startup checks and Linux desktop metadata are verified more consistently across platforms.
-- Type Piano remains completely free: play from a computer keyboard, MIDI controller, or the on-screen 88-key piano with four instruments, velocity, and sustain.
+- The Salamander piano-bank importer now follows the SFZ default middle-C pitch center when a region omits it, so the B3, C4, and C-sharp 4 sample zone plays at the intended pitch instead of nearly one semitone high.
+- The native interface now uses egui and eframe 0.35 with an audited software-renderer fallback and event-driven redraws, keeping virtual-machine and software-only Windows sessions responsive without continuous repainting.
+- Window controls, resizing, status placement, and the related Hannes Software music-product view are aligned while the complete keyboard, MIDI, sampled-piano, and offline experience remains free.
