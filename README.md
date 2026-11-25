@@ -73,7 +73,7 @@ The realtime engine supports velocity layers, sustain, release behavior, resonan
 ### The complete application is free
 
 - All four instruments, all three input methods, the full 88-key range, themes, language choices, and settings persistence are included.
-- Linux and Windows are the current public package channels. The Windows NSIS installer is published under an explicit unsigned, no-target-host-acceptance exception; its checksum proves package identity, not installation, audio, MIDI, or UI acceptance. macOS remains unpublished until its signed, notarized, and stapled universal DMG produces a passing native acceptance report on macOS.
+- Available for Windows x64 (.exe and Microsoft Store) and Linux x64 (AppImage, DEB, and RPM), with published SHA-256 checksums on the official download page.
 
 ## The complete application is free
 
