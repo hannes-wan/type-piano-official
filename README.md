@@ -1,7 +1,7 @@
 # Type Piano
 
 [![Complete App: Free](https://img.shields.io/badge/Complete_App-Free-16a34a?style=for-the-badge)](https://hannes-software.com/type-piano/download/)
-[![Windows](https://img.shields.io/badge/Windows-Desktop-2563eb?style=flat-square&logo=windows)](https://hannes-software.com/type-piano/download/) [![Linux](https://img.shields.io/badge/Linux-Desktop-f59e0b?style=flat-square&logo=linux)](https://hannes-software.com/type-piano/download/) [![Local first](https://img.shields.io/badge/Workflow-Local--first-7c3aed?style=flat-square)](https://hannes-software.com/type-piano/)
+[![Linux](https://img.shields.io/badge/Linux-Desktop-f59e0b?style=flat-square&logo=linux)](https://hannes-software.com/type-piano/download/) [![Windows](https://img.shields.io/badge/Windows-Desktop-2563eb?style=flat-square&logo=windows)](https://hannes-software.com/type-piano/download/) [![macOS](https://img.shields.io/badge/macOS-Desktop-64748b?style=flat-square&logo=apple)](https://hannes-software.com/type-piano/download/) [![Local first](https://img.shields.io/badge/Workflow-Local--first-7c3aed?style=flat-square)](https://hannes-software.com/type-piano/)
 
 > Turn the keyboard already under your hands into a responsive native 88-key piano.
 
@@ -13,14 +13,15 @@ Type Piano is a complete free desktop instrument for computer-keyboard, MIDI-con
 
 [Download Community Edition](https://hannes-software.com/type-piano/download/) · [Product guide](https://hannes-software.com/type-piano/) · [Help](https://hannes-software.com/type-piano/help/) · [Report a bug](https://github.com/hannes-wan/type-piano-official/issues/new?template=bug_report.yml)
 
-## Download Type Piano 0.1.6
+## Download Type Piano 0.1.7
 
 | Platform | Package | Use it when |
 | --- | --- | --- |
-| Linux x64 (APPIMAGE) | [type-piano-0.1.6-linux-x64.AppImage](https://github.com/hannes-wan/type-piano-official/releases/download/v0.1.6/type-piano-0.1.6-linux-x64.AppImage) | Portable Linux desktop package |
-| Linux x64 (DEB) | [type-piano-0.1.6-linux-x64.deb](https://github.com/hannes-wan/type-piano-official/releases/download/v0.1.6/type-piano-0.1.6-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
-| Linux x64 (RPM) | [type-piano-0.1.6-linux-x64.rpm](https://github.com/hannes-wan/type-piano-official/releases/download/v0.1.6/type-piano-0.1.6-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
-| Windows x64 | [type-piano-0.1.6-windows-x64-setup.exe](https://github.com/hannes-wan/type-piano-official/releases/download/v0.1.6/type-piano-0.1.6-windows-x64-setup.exe) | Guided Windows installer |
+| Linux x64 (APPIMAGE) | [type-piano-0.1.7-linux-x64.AppImage](https://github.com/hannes-wan/type-piano-official/releases/download/v0.1.7/type-piano-0.1.7-linux-x64.AppImage) | Portable Linux desktop package |
+| Linux x64 (DEB) | [type-piano-0.1.7-linux-x64.deb](https://github.com/hannes-wan/type-piano-official/releases/download/v0.1.7/type-piano-0.1.7-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
+| Linux x64 (RPM) | [type-piano-0.1.7-linux-x64.rpm](https://github.com/hannes-wan/type-piano-official/releases/download/v0.1.7/type-piano-0.1.7-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
+| macOS universal | [type-piano-0.1.7-macos-universal.dmg](https://github.com/hannes-wan/type-piano-official/releases/download/v0.1.7/type-piano-0.1.7-macos-universal.dmg) | macOS disk image |
+| Windows x64 | [type-piano-0.1.7-windows-x64-setup.exe](https://github.com/hannes-wan/type-piano-official/releases/download/v0.1.7/type-piano-0.1.7-windows-x64-setup.exe) | Guided Windows installer |
 
 Checksums, installation notes, and the complete platform matrix live on the [official download page](https://hannes-software.com/type-piano/download/).
 
@@ -28,6 +29,7 @@ Checksums, installation notes, and the complete platform matrix live on the [off
 
 - **Windows:** Windows 10 or Windows 11 on x64.
 - **Linux:** a mainstream x64 distribution with glibc 2.35 or newer, such as Ubuntu 22.04+, Debian 12+, Fedora, or openSUSE (AppImage, DEB, and RPM packages).
+- **macOS:** a current 64-bit macOS release.
 - **Disk space:** a few hundred megabytes free for the application and its bundled resources.
 
 ## Why Type Piano exists
